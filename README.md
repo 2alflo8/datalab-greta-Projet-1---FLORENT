@@ -4,3 +4,4 @@ Notre premier projet - Python
 je suis en short sous la pluie
 car mon parapluie na plus de baleine
 je photocopie du sable
+je sors les bierres de la machine à laver
